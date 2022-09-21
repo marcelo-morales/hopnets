@@ -1,5 +1,7 @@
 # hopnets
 
+- Running log of notes/research findings: https://tinyurl.com/hopnets 
+
 # Question to Answer
 How to prevent congestion in datacenter networks?
 
