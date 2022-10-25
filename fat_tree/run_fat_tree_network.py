@@ -232,3 +232,8 @@ print("this is final average " + str(avg))
 
 
 # print("this is average path length " + str(nx.average_shortest_path_length(FatTree)))
+
+
+if __name__ == "__main__":
+    print("Hello, World!")
+    
